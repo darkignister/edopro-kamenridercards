@@ -30,5 +30,6 @@ IMAGES
 *Added 197102012 - Kamen Rider Fourze
 *Added 197102013 - Kamen Rider Wizard
 *Added 197102019 - Kamen Rider Zi-O
+*Added 197112002 - Dragreder
 
-*Added expansion Kamen Rider V2
+*Added expansion Kamen Rider V2.cdb
