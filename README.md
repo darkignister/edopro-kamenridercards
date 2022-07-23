@@ -2,7 +2,7 @@
 Kamen Rider V2 Expansion of the EDOPRO. Custom EDOPRO cards.
 
 **I do not own or am otherwise affiliated with Yu-Gi-Oh!, Kamen Rider, or EDOPro. This is merely a fan project that happens to involve all of them.**
-**I do not own any of the images used in the card art for the card image**
+**I do not own any of the images used in the card art for the card design**
 
 **I do own the card design and the script for each card**
 
