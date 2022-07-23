@@ -6,7 +6,9 @@ Kamen Rider V2 Expansion of the EDOPRO. Custom EDOPRO cards.
 
 **I do own the card design and the script for each card**
 
-This is actually my 2nd version of the original Kamen Rider cards I made. The reason for the new version is because the original version is heavily outdated.
+This is my 2nd version of the original Kamen Rider cards I made. The reason for the new version is because the original version is heavily outdated.
+
+**To download the cards, please look at releases**
 
 In Progress for Heisei and Reiwa Riders
 - [x] Kamen Rider Kuuga
