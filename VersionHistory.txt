@@ -1,0 +1,34 @@
+Current Version: 1.0.0
+
+1.0.0
+SCRIPTS
+*Added 197102000 - Kamen Rider Kuuga
+*Added 197102001 - Kamen Rider Agito
+*Added 197102002 - Kamen Rider Ryuki
+*Added 197102003 - Kamen Rider Faiz
+*Added 197102004 - Kamen Rider Blade
+*Added 197102005 - Kamen Rider Hibiki
+*Added 197102006 - Kamen Rider Kabuto
+*Added 197102007 - Kamen Rider Den-O
+*Added 197102008 - Kamen Rider Kiva
+*Added 197102009 - Kamen Rider Decade
+*Added 197102012 - Kamen Rider Fourze
+*Added 197102013 - Kamen Rider Wizard
+*Added 197102019 - Kamen Rider Zi-O
+
+IMAGES
+*Added 197102000 - Kamen Rider Kuuga
+*Added 197102001 - Kamen Rider Agito
+*Added 197102002 - Kamen Rider Ryuki
+*Added 197102003 - Kamen Rider Faiz
+*Added 197102004 - Kamen Rider Blade
+*Added 197102005 - Kamen Rider Hibiki
+*Added 197102006 - Kamen Rider Kabuto
+*Added 197102007 - Kamen Rider Den-O
+*Added 197102008 - Kamen Rider Kiva
+*Added 197102009 - Kamen Rider Decade
+*Added 197102012 - Kamen Rider Fourze
+*Added 197102013 - Kamen Rider Wizard
+*Added 197102019 - Kamen Rider Zi-O
+
+*Added expansion Kamen Rider V2
