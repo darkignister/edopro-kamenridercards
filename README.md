@@ -8,11 +8,7 @@ Kamen Rider V2 Expansion of the EDOPRO. Custom EDOPRO cards.
 
 This is actually my 2nd version of the original Kamen Rider cards I made. The reason for the new version is because the original version is heavily outdated.
 
-In Progress
-- [ ] Rest of the main Heisei and Reiwa Riders
-- [ ] Spell/Trap Support for Kamen Rider
-
-In Progress Detailed for Heisei and Reiwa Riders
+In Progress for Heisei and Reiwa Riders
 - [x] Kamen Rider Kuuga
 - [x] Kamen Rider Agito
 - [x] Kamen Rider Ryuki
@@ -40,5 +36,6 @@ In Progress Detailed for Heisei and Reiwa Riders
 - [ ] Kamen Rider Geats
 
 In Future
+- [ ] Spell/Trap Support for Kamen Rider
 - [ ] Showa Riders
 - [ ] Creating each archetype for every Kamen Rider Series
