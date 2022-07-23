@@ -7,7 +7,7 @@ Current Version: 1.0.0
 - Modified/Changed *
 
 ## 1.0.0
-##### Script
+##### SCRIPT
 - +c197102000.lua - Kamen Rider Kuuga
 - +c197102001.lua - Kamen Rider Agito
 - +c197102002.lua - Kamen Rider Ryuki
