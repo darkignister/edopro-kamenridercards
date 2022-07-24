@@ -1,43 +1,48 @@
 # Change Log/Version History
-Current Version: 1.0.0
+Current Version: 1.0.1
 
-## Key
-- Added +
-- Removed -
-- Modified/Changed *
+##Key
+- Postive: +
+- Negative: -
+- Modified/Changed: *
+
+## 1.0.1
+##### MISC
+- *Made installation more simpler
+- *Rewritten the string.conf
 
 ## 1.0.0
 ##### SCRIPT
-- +c197102000.lua - Kamen Rider Kuuga
-- +c197102001.lua - Kamen Rider Agito
-- +c197102002.lua - Kamen Rider Ryuki
-- +c197102003.lua - Kamen Rider Faiz
-- +c197102004.lua - Kamen Rider Blade
-- +c197102005.lua - Kamen Rider Hibiki
-- +c197102006.lua - Kamen Rider Kabuto
-- +c197102007.lua - Kamen Rider Den-O
-- +c197102008.lua - Kamen Rider Kiva
-- +c197102009.lua - Kamen Rider Decade
-- +c197102012.lua - Kamen Rider Fourze
-- +c197102013.lua - Kamen Rider Wizard
-- +c197102019.lua - Kamen Rider Zi-O
+- +Added c197102000.lua - Kamen Rider Kuuga
+- +Added c197102001.lua - Kamen Rider Agito
+- +Added c197102002.lua - Kamen Rider Ryuki
+- +Added c197102003.lua - Kamen Rider Faiz
+- +Added c197102004.lua - Kamen Rider Blade
+- +Added c197102005.lua - Kamen Rider Hibiki
+- +Added c197102006.lua - Kamen Rider Kabuto
+- +Added c197102007.lua - Kamen Rider Den-O
+- +Added c197102008.lua - Kamen Rider Kiva
+- +Added c197102009.lua - Kamen Rider Decade
+- +Added c197102012.lua - Kamen Rider Fourze
+- +Added c197102013.lua - Kamen Rider Wizard
+- +Added c197102019.lua - Kamen Rider Zi-O
 
 ##### IMAGES
-- +197102000.jpg - Kamen Rider Kuuga
-- +197102001.jpg - Kamen Rider Agito
-- +197102002.jpg - Kamen Rider Ryuki
-- +197102003.jpg - Kamen Rider Faiz
-- +197102004.jpg - Kamen Rider Blade
-- +197102005.jpg - Kamen Rider Hibiki
-- +197102006.jpg - Kamen Rider Kabuto
-- +197102007.jpg - Kamen Rider Den-O
-- +197102008.jpg - Kamen Rider Kiva
-- +197102009.jpg - Kamen Rider Decade
-- +197102012.jpg - Kamen Rider Fourze
-- +197102013.jpg - Kamen Rider Wizard
-- +197102019.jpg - Kamen Rider Zi-O
-- +197112002.jpg - Dragreder
+- +Added 197102000.jpg - Kamen Rider Kuuga
+- +Added 197102001.jpg - Kamen Rider Agito
+- +Added 197102002.jpg - Kamen Rider Ryuki
+- +Added 197102003.jpg - Kamen Rider Faiz
+- +Added 197102004.jpg - Kamen Rider Blade
+- +Added 197102005.jpg - Kamen Rider Hibiki
+- +Added 197102006.jpg - Kamen Rider Kabuto
+- +Added 197102007.jpg - Kamen Rider Den-O
+- +Added 197102008.jpg - Kamen Rider Kiva
+- +Added 197102009.jpg - Kamen Rider Decade
+- +Added 197102012.jpg - Kamen Rider Fourze
+- +Added 197102013.jpg - Kamen Rider Wizard
+- +Added 197102019.jpg - Kamen Rider Zi-O
+- +Added 197112002.jpg - Dragreder
 
 ##### MISC
-- +Kamen Rider V2.cdb
-- +string.conf
+- +Added Kamen Rider V2.cdb
+- +Added string.conf
