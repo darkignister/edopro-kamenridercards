@@ -6,12 +6,12 @@ Current Version: 1.0.1
 - Negative: -
 - Modified/Changed: *
 
-## 1.0.1
+## 1.0.1 - 7/24/2022
 ##### MISC
 - *Made installation more simpler
 - *Rewritten the string.conf
 
-## 1.0.0
+## 1.0.0 - 7/23/2022
 ##### SCRIPT
 - +Added c197102000.lua - Kamen Rider Kuuga
 - +Added c197102001.lua - Kamen Rider Agito
